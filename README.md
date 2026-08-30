@@ -1,3 +1,5 @@
+Yep bro. Instead of code-style tags, **bold them** so they feel like actual areas rather than tech badges.
+
 # Hey there 👋
 
 ### B.Tech CSE @ VIT Chennai | Tech, Product & Growth
@@ -8,7 +10,7 @@ I build with **Python, JavaScript, React, Node.js, FastAPI, and AI/ML**, working
 
 ### 🧠 Currently Exploring
 
-`AI × Product` · `GTM` · `Growth` · `Generative AI` · `AI Agents` · `RAG` · `Full-Stack Development` · `Product Research` · `Automation`
+**AI × Product** · **GTM** · **Growth** · **Generative AI** · **AI Agents** · **RAG** · **Full-Stack Development** · **Product Research** · **Automation**
 
 ### 🤝 Open to
 
