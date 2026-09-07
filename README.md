@@ -1,5 +1,3 @@
-Yep bro. Instead of code-style tags, **bold them** so they feel like actual areas rather than tech badges.
-
 # Hey there 👋
 
 ### B.Tech CSE @ VIT Chennai | Tech, Product & Growth
